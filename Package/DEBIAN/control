@@ -1,0 +1,8 @@
+Package: com.vanishingtacos.gamecube
+Name:GameCueb Respring Animation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: GameCube start up animation as a respring animation
+Maintainer: u/vanishingtacos
+Author: vanishingtacos
+Section: Themes
