@@ -9,8 +9,9 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+        <package>com.anemonetheming.anemone</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Bundle of respring animations/shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -38,7 +39,7 @@
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<url>https://www.reddit.com/user/VanishingTacos/</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
