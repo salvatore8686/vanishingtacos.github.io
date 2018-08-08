@@ -1,0 +1,9 @@
+Package: com.vaninshingtacos.gamecube
+Name: Gamecube Respring Animation
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: GameCube start up animation as a resping animation :)
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes
