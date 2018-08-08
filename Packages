@@ -4,13 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.vaninshingtacos.gamecube_1.0.1_iphoneos-arm.deb
-Size: 1996318
-MD5sum: 9dbcdc6e20e5d41cf1fca81785200a23
-SHA1: ee5919cdfabfed1774fdbb598990c9b4c0d73f94
-SHA256: bbff4feacd05d69e77677763c2053b37c0c59adf60e23b7093f5ad6261fadfeb
+Size: 1860806
+MD5sum: a4568624089399b32cc0de875e904f67
+SHA1: 6b22be9d7c97c3abaa32f25792233e9b2d5a8fc7
+SHA256: 801fbd46204e0ae9b6e43c0b41b8d7fbe4b87f1bf0522d3900a964400cdbc50b
 Section: Themes
 Description: GameCube start up animation as a resping animation :)
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/change_log/?p=com.vaninshingtacos.gamecube
+Depiction: https://vanishingtacos.github.io/depictions/change_logs/?p=com.vaninshingtacos.gamecube
 Name: Gamecube Respring Animation
 
