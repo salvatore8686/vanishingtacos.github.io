@@ -1,0 +1,25 @@
+<package>
+	<id>com.vaninshingtacos.gamecube</id>
+	<name>GameCube Respring Animation</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>GameCube start up animation as a respring animation</description>
+	</descriptionlist>
+	<screenshots>
+		<image>1.jpg</image>
+	</screenshots>
+	<changelog>
+		<change>Added screenshot</change>
+	</changelog>
+	<links></links>
+</package>
