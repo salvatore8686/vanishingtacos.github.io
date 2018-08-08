@@ -1,2 +1,4 @@
 #!/bin/bash 
-dpkg-deb -bZgzip depictions/com.vaninshingtacos.gamecube/ debs
+echo Name of package:
+read varname
+dpkg-deb -bZgzip depictions/$varname debs
