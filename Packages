@@ -1,3 +1,19 @@
+Package: com.vaninshingtacos.dedsec
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.vaninshingtacos.dedsec_1.0.0_iphoneos-arm.deb
+Size: 1361864
+MD5sum: 76a072789cb1527618e31bc184c2abf0
+SHA1: 1da400166488d3bb27655b54db22588cb5a85e5c
+SHA256: 9e27fb3aece5c8934662481f55afd13b3ed143d87dd7841054e71f4339c25aad
+Section: Themes
+Description: DeadSec skull respring animation :)
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=ccom.vaninshingtacos.dedsec
+Name: DeadSec Respring Animation
+
 Package: com.vaninshingtacos.gamecube
 Version: 1.0.0
 Architecture: iphoneos-arm
