@@ -1,16 +1,28 @@
-Package: com.vaninshingtacos.gamecube
-Version: 1.0.1
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: VanishingTacos
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.vaninshingtacos.gamecube_1.0.1_iphoneos-arm.deb
-Size: 1860800
-MD5sum: 316bf6fce04b5c1e71554dfc3311df4a
-SHA1: 2b0fa774dbf1c31eda20b154b0c888c3f817f7f3
-SHA256: 273b53945ed9543d03b60f02e79399771688c5fda99331bbcf4f0c6608a55081
-Section: Themes
-Description: GameCube start up animation as a resping animation :)
-Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/?p=com.vaninshingtacos.gamecube
-Name: Gamecube Respring Animation
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 

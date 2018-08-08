@@ -1,8 +1,8 @@
-Origin: VanishingTacos's Repo
-Label: VanishingTacos's Repo
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: VanishingTacos's Repo - My personal repo
+Description: Reposi3 - a cydia repo template
