@@ -2,13 +2,13 @@
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
+			<url>https://twitter.com/VanishingTacos</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/VanishingTacos//</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</footerlinks>
 </repo>
