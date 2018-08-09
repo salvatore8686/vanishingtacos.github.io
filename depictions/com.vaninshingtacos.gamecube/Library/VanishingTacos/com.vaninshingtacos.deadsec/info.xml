@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.vaninshingtacos.gamecube</id>
+	<name>GameCube Respring Animation</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>11.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,9 +13,10 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>GameCube start up animation as a respring animation</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

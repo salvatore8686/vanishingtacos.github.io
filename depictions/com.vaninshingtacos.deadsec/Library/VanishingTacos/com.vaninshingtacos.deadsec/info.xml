@@ -1,7 +1,7 @@
 <package>
-	<id>com.vaninshingtacos.gamecube</id>
-	<name>GameCube Respring Animation</name>
-	<version>1.0.1</version>
+	<id>com.vaninshingtacos.deadsec</id>
+	<name>DeadSec Skull Respring Animation</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -13,13 +13,12 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>GameCube start up animation as a respring animation</description>
+		<description>DeadSec Skull Respring Animation</description>
 	</descriptionlist>
 	<screenshots>
-		<image>1.jpg</image>
 	</screenshots>
 	<changelog>
-		<change>Added screenshot</change>
+		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>

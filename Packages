@@ -1,28 +1,32 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.vaninshingtacos.dedsec
+Version: 1.0.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vaninshingtacos.dedsec_1.0.0_iphoneos-arm.deb
+Size: 1361990
+MD5sum: 4b973efb5bc3cc460ca1386b6909bf35
+SHA1: 1ad1a2ebe11d833ffd6226f13c374a7c762aa898
+SHA256: 79d4715d1542df19e0d883a1cb076b96d059131b8d236d7f0f5eacd998420a15
+Section: Themes
+Description: DeadSec skull respring animation :)
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=ccom.vaninshingtacos.dedsec
+Name: DeadSec Respring Animation
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.vaninshingtacos.gamecube
+Version: 1.0.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: VanishingTacos
+Depends: firmware (<=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vaninshingtacos.gamecube_1.0.0_iphoneos-arm.deb
+Size: 1861300
+MD5sum: d8d6911e8ea6fd2e0622bbccb7adc653
+SHA1: 5b0e71f816f501eb7d8cb33cd7d57f9012c99247
+SHA256: 64388408c83b0730e6d020c66dde3b2622f81aa28f98639444a8bdab560e4ee1
+Section: Themes
+Description: GameCube start up animation as a resping animation :)
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vaninshingtacos.gamecube
+Name: Gamecube Respring Animation
 
