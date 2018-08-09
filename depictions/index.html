@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>/supermamon/</title>
+  <title>PackageName</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -20,9 +20,7 @@
 	}
   </style>
   <script type="text/javascript">
-
 	bundleid = $.QueryString['p'];
-
     var contentBlocks = 	{
     	"#packageName" :
 			{"type":"text","source":"package>name"}
@@ -115,7 +113,6 @@
 					if ($(source).size()==0){
 						$('#externalLinksContainer').remove()
 					}
-
                     $.each(source, function(index,data) {
                         var a = $("<a class='link-item list-group-item'>");
                         a.attr("href",$(data).find('url').text());
@@ -128,9 +125,7 @@
                         $(a).append($(data).find('name').text());
                         $(element).append(a);
                     }); //each
-
 				}
-
 			}
 	}
     $( document ).ready(function() {
@@ -141,7 +136,6 @@
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
-
             },
 			cache   : false,
             error: function() {
@@ -149,7 +143,6 @@
 				$("#packageInformation").hide();
             }
         }); //ajax
-
     }); // ready
   </script>
 </head>
@@ -212,7 +205,6 @@
        });
      }
    }
-
     var repoContents =  {
         "#repoFooterLinks" :
             {"type":"custom"
@@ -244,10 +236,7 @@
               setAnchorTargets();
             }
         }); //ajax
-
-
     }); // ready
-
 </script>
 
 <div id="contactInfo">

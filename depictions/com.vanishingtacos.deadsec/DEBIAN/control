@@ -1,4 +1,4 @@
-Package: com.vaninshingtacos.dedsec
+Package: com.vanishingtacos.dedsec
 Name: DeadSec Respring Animation
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -7,5 +7,5 @@ Description: DeadSec skull respring animation :)
 Maintainer: VanishingTacos
 Author: VanishingTacos
 Section: Themes
-Depiction: https://vanishingtacos.github.io/depictions/?p=com.vaninshingtacos.dedsec
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.dedsec
 

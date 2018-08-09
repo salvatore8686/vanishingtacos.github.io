@@ -1,31 +1,31 @@
-Package: com.vaninshingtacos.dedsec
+Package: com.vanishingtacos.dedsec
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
-Filename: ./debs/com.vaninshingtacos.dedsec_1.0.0_iphoneos-arm.deb
-Size: 1362004
-MD5sum: 736028541fda7a5f963f0cd145276843
-SHA1: d30d6045301e4e8586e3f52dec6211d3849f2d21
-SHA256: 215b6d28636a3a58262acfd27eff29f9dab04e8ba65662cc5581e21b164a7fec
+Filename: ./debs/com.vanishingtacos.dedsec_1.0.0_iphoneos-arm.deb
+Size: 1361988
+MD5sum: 561393e1076a84fad432d8e8f566fbce
+SHA1: 55a9fea63df6715e99605e35c72d6a17cc505674
+SHA256: 3160bc1cb816f12102f15b21d9e3b957b66c59c74bbf795ce65e0d94102249f0
 Section: Themes
 Description: DeadSec skull respring animation :)
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/?p=com.vaninshingtacos.dedsec
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.dedsec
 Name: DeadSec Respring Animation
 
 Package: com.vanishingtacos.gamecube
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: VanishingTacos
-Depends: firmware (<=7.0), com.anemonetheming.anemone
+Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.gamecube_1.0.0_iphoneos-arm.deb
-Size: 1861302
-MD5sum: 7af4bbeae6c1f6fec2d406d237bcdbf8
-SHA1: 3a23df35dab17bb8b211f531f5a835e501017aaf
-SHA256: 66e70d1c0d620aede6477cd3e32abcae0452642174b7a31eb3ced37f260d061c
+Size: 1861298
+MD5sum: c589b493099e44c96a29a51cc45a5201
+SHA1: 933cb52abefba8d4a8de3244d936acdbae99905d
+SHA256: 78832ed491e70f158c2823ced227fe08ef308858fa93b42a8b9fe23a55323a8d
 Section: Themes
-Description: GameCube start up animation as a resping animation :)
+Description: GameCube start up animation as a respring animation :)
 Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.gamecube
 Name: Gamecube Respring Animation
