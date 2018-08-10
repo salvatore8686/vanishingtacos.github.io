@@ -30,6 +30,22 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.colorball
 Name: Color Ball Respring Animation
 
+Package: com.vanishingtacos.colorspin
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.colorspin_1.0.0_iphoneos-arm.deb
+Size: 218710
+MD5sum: 6ba36ab62e2994df430f75fa2ab3e26c
+SHA1: 21148fd70b7f4891e27dd2c28ac8cd4255935120
+SHA256: aed7b23476dc9d84afed83d25cac47eeb67f575e5e63eb309199e7534f79886e
+Section: Themes
+Description: An interesting respring animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.colorspin
+Name: Color Spin Respring Animation
+
 Package: com.vanishingtacos.deadsec
 Version: 1.0.2
 Architecture: iphoneos-arm
