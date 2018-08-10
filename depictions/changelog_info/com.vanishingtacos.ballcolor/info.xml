@@ -1,0 +1,24 @@
+<package>
+	<id>com.vanishingtacos.ballcolor</id>
+	<name>Spin Circle Respring Animation</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>An interesting respring animation</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+        <change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
