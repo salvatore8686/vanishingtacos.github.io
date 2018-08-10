@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.deadsec_1.0.2_iphoneos-arm.deb
-Size: 1361460
-MD5sum: 0dd2ba6dde2b134f64d94e055ab72f23
-SHA1: 6d7f404fd6f90a297a1978ae25bb1927ea78701d
-SHA256: 7ee0169f5618ecd1960dfc0773e881c8a73050887d480b60b31384daa86c8702
+Size: 1361456
+MD5sum: 3fdacb2cf47101b465238729320d1195
+SHA1: 7e109f4c1782cf154647e018c8b88c52293aeb3f
+SHA256: 223e6ac16d5153c9909b326a1b3b39a12a09e0401cc367dbd43eeee03e967487
 Section: Themes
 Description: DeadSec skull respring animation :)
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/projects/?p=com.vanishingtacos.deadsec
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.deadsec
 Name: DeadSec Respring Animation
 
 Package: com.vanishingtacos.gamecube
@@ -20,14 +20,14 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.gamecube_1.0.1_iphoneos-arm.deb
-Size: 1860818
-MD5sum: 8cfafbff8fa4d8d719b0f7f09c725d83
-SHA1: 2312e1d32b6177ebdff3d5f8ec6f14b914eec51d
-SHA256: 451e8eed349222509922bb2a860848a54dd4e21612de84436ddd432a853b50a6
+Size: 1860806
+MD5sum: b85cf5ea919514098787245f88aecbe0
+SHA1: 927a883cadde29a06e78cc1bf31f71d99c2e5847
+SHA256: 94a37717350dd3be1f7ee5cd5b3ecb152836e427349ae4a1f3f337acb9228f20
 Section: Themes
 Description: GameCube start up animation as a respring animation :)
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/projects/?p=com.vanishingtacos.gamecube
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.gamecube
 Name: Gamecube Respring Animation
 
 Package: com.vanishingtacos.glitchyapple
@@ -37,13 +37,13 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.glitchyapple_1.0.1_iphoneos-arm.deb
 Size: 8247054
-MD5sum: d61f164cfa02c0a32ac83e3037974cdf
-SHA1: d770c6a961f67a296a6eaa1870e7a039c8cce445
-SHA256: 3f3763305c6a230b34b71ea6b82a9e9b3047932738d571a8452429e57406cfbe
+MD5sum: 912fc45dad0bd42f5d028874886e979f
+SHA1: c36e87008e70dd668e7b1db50b5aa240f9fc5c61
+SHA256: 40f13404407c412a529672caa4570adead82a31651217ec54028267f31169d2d
 Section: Themes
 Description: You know what is. :)
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/projects/?p=com.vanishingtacos.glitchyapple
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.glitchyapple
 Name: Glitchy Apple Respring Animation
 
 Package: com.vanishingtacos.megapack
@@ -52,14 +52,14 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.megapack_1.0.2_iphoneos-arm.deb
-Size: 24705180
-MD5sum: bf5e111365b838776b76aa0004b479cd
-SHA1: 6cc5de9351987eafac3c63994e410f0117b9a02f
-SHA256: df91b10fbdd5f3f675393d874fdd0091bcb6fe121b224143c11101a5b72f3d28
+Size: 24705188
+MD5sum: ff2e9c576fcae90aa442bd8287bdebb9
+SHA1: 3f9cf97aa3fb6b7838bb81c28084bb25a4dfcfa1
+SHA256: 8764c8b2b09497d7885e8ff0cd9bfd5598b6a8c94fe243da47832f4a3b6c47bc
 Section: Themes
 Description: A mega pack of respring animations.
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/projects/?p=com.vanishingtacos.megapack
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.megapack
 Name: Respring Animation Mega Pack
 
 Package: com.vanishingtacos.spincircle
@@ -68,13 +68,13 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.spincircle_1.0.1_iphoneos-arm.deb
-Size: 6981074
-MD5sum: 9960e0e04c30b546f9c0d271ec5cb9b6
-SHA1: 9805f1aed1d3c70e92bb788498cb0004d9cfb582
-SHA256: d8bf32f11b5d80089e771f6bf6f2d1ebe674a126295c69d486d1ce17786d32e3
+Size: 6981064
+MD5sum: ee660b54eb544bd7cedd89a82ccb5f5a
+SHA1: 8a60041aedb8abca40dece764178774a6585b91f
+SHA256: 9fa27e492ada6ce6dd81786f1b34accbc5d3d3a0596754fd02a1178c5c563da5
 Section: Themes
 Description: An interesting respring animation
 Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/projects/?p=com.vanishingtacos.spincircle
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.spincircle
 Name: Spin Circle Respring Animation
 
