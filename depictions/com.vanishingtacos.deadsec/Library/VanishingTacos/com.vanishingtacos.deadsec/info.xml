@@ -1,7 +1,7 @@
 <package>
 	<id>com.vaninshingtacos.deadsec</id>
 	<name>DeadSec Skull Respring Animation</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -18,7 +18,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Remove unnecessary files</change>
 	</changelog>
 	<links></links>
 </package>

@@ -1,6 +1,6 @@
 Package: com.vanishingtacos.deadsec
 Name: DeadSec Respring Animation
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Description: DeadSec skull respring animation :)

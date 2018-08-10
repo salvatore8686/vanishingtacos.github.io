@@ -1,13 +1,13 @@
 Package: com.vanishingtacos.deadsec
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
-Filename: ./debs/com.vanishingtacos.deadsec_1.0.0_iphoneos-arm.deb
-Size: 1361990
-MD5sum: e8e618af2e3b366eddf067f902830f10
-SHA1: 54def3a1a082ab28696c800334bcb6b71053a7f1
-SHA256: 268239e0499fb049d7bbcf9fdae58d4444dba310b38dd5c46ae322b1107c9ea1
+Filename: ./debs/com.vanishingtacos.deadsec_1.0.1_iphoneos-arm.deb
+Size: 1361928
+MD5sum: fffe186d304950b4603c7104f07b04d4
+SHA1: a9a5baa39df3255c557f1aca5e340fc33e818947
+SHA256: ddb4592faee90a12b171c3baef34ebd959eb4a4ae5c05be5df088c00a72a237f
 Section: Themes
 Description: DeadSec skull respring animation :)
 Author: VanishingTacos
