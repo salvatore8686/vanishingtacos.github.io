@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.glitchyapple_1.0.0_iphoneos-arm.deb
-Size: 8247536
-MD5sum: 887e540710f3877505f2ce15fa52cc33
-SHA1: df6786a351f95ef418f918532f672976ac9c292b
-SHA256: 8a4fc2b0fb09cab75ebf7c3d18fb11f2d5d17404a42e330d896635525ae51289
+Size: 8247532
+MD5sum: 560506cf6ab0c7de7eb20fadc9c2ad0d
+SHA1: 40e86acb946cd8f719d20ba22ad32ff4f345c063
+SHA256: aa9a796c2366cf762279c38b8afe2cc7bc248e901599d118846ff936854d249a
 Section: Themes
 Description: You know what is. :)
 Author: VanishingTacos
