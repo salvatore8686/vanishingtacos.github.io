@@ -1,6 +1,6 @@
 Package: com.vanishingtacos.glitchyapple
 Name: Glitchy Apple Respring Animation
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Description: You know what is. :)

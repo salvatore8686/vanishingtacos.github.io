@@ -37,7 +37,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/Library/VanishingTacos/"+bundleid+"/changelog.xml"),
+            url     : ("https://vanishingtacos.github.io/depictions/changelog_info/"+bundleid+"/changelog.xml"),
             success : function(xml){
             	data_loader_engine(contentBlocks,xml)
             },

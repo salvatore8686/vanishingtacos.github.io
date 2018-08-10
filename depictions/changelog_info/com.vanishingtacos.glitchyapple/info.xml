@@ -1,0 +1,24 @@
+<package>
+	<id>com.vaninshingtacos.glitchyapple</id>
+	<name>Glitchy Apple Respring Animation</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>You know what it is :)</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+        <change>Remove unnecessary files</change>
+	</changelog>
+	<links></links>
+</package>
