@@ -47,15 +47,15 @@ Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.gli
 Name: Glitchy Apple Respring Animation
 
 Package: com.vanishingtacos.megapack
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
-Filename: ./debs/com.vanishingtacos.megapack_1.0.0_iphoneos-arm.deb
-Size: 18448604
-MD5sum: 25ee2044c1d85e90d9e3cfbf5081753d
-SHA1: e39adc82f64484fc4043bbe907eae84e254f4dfe
-SHA256: dcbc6346ae579c4f281f52e73c2de84be24109a1950a6f52af5dc800c265d64e
+Filename: ./debs/com.vanishingtacos.megapack_1.0.1_iphoneos-arm.deb
+Size: 24705648
+MD5sum: dd0cf00eedca6ad34bf12629351ac6ad
+SHA1: 45f4249dae508a10d0a5bdff02ece6bcd043144d
+SHA256: 4c986274a6a34562192698bfacbbf710c9a58bf1b7ac37b49907ec66de6b1aa6
 Section: Themes
 Description: A mega pack of respring animations.
 Author: VanishingTacos
