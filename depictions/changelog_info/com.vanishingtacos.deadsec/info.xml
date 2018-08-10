@@ -16,6 +16,10 @@
 		<description>DeadSec Skull Respring Animation</description>
 	</descriptionlist>
 	<screenshots>
+        <screenshot>
+            <description>DeadSec Skull</description>
+            <image>screenshot.png</image>
+        </screenshot>
 	</screenshots>
 	<changelog>
 		<change>Remove unnecessary files</change>
