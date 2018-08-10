@@ -30,3 +30,19 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.gamecube
 Name: Gamecube Respring Animation
 
+Package: com.vanishingtacos.glitchyapple
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.glitchyapple_1.0.0_iphoneos-arm.deb
+Size: 8247536
+MD5sum: 887e540710f3877505f2ce15fa52cc33
+SHA1: df6786a351f95ef418f918532f672976ac9c292b
+SHA256: 8a4fc2b0fb09cab75ebf7c3d18fb11f2d5d17404a42e330d896635525ae51289
+Section: Themes
+Description: You know what is. :)
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.glitchyapple
+Name: Glitchy Apple Respring Animation
+
