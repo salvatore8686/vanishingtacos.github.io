@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.colorball_1.0.0_iphoneos-arm.deb
-Size: 397132
-MD5sum: e0001665c0a4fd6be772b7331fd556f5
-SHA1: b65920da2e37ac6cdc2bce4585b48340682b01fd
-SHA256: 5bda8e80d8bf9cd5c8893464de3ddbb0a242c356dd1aeb2afc22bae3c102b637
+Size: 397134
+MD5sum: 36f9aefc6b3d9c74a989494c43931ae6
+SHA1: dd898bb13097cd9991d590be97f6fd773679c4c2
+SHA256: b7c460c52ad954f5d877966c9e9f83f3cbfe3d806001c4fbc4df59cc67bdf621
 Section: Themes
 Description: An interesting respring animation
 Author: VanishingTacos
