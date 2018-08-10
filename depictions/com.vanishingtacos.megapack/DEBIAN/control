@@ -1,0 +1,11 @@
+Package: com.vanishingtacos.megapack
+Name: Respring Animation Mega Pack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Description: A mega pack of respring animations. 
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.megapack
+
