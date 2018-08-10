@@ -46,3 +46,19 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.glitchyapple
 Name: Glitchy Apple Respring Animation
 
+Package: com.vanishingtacos.spincircle
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.spincircle_1.0.0_iphoneos-arm.deb
+Size: 6981562
+MD5sum: f95f1e17db837bff17dee7ac18c63edc
+SHA1: d9cfaf5525ea8d5f259e4e643a65c3269a2c097b
+SHA256: 9a54639b8802bcbdd42d4ba80285fe57e130990ec4438daa48089c3564f51b7a
+Section: Themes
+Description: An interesting respring animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.spincircle
+Name: Spin Circle Respring Animation
+
