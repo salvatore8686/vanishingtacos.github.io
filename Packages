@@ -68,15 +68,15 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.coolcube_1.0.0_iphoneos-arm.deb
-Size: 348090
-MD5sum: 912039f6117b1420482cf3bcde9bceee
-SHA1: e40b55ff72ffc4575e9616cd30020389c4b1b1fe
-SHA256: ad21a688f1a1f86c13d04ea1550ba96f9979d88b3dbfdf0ac0d5dbfca5d43125
+Size: 348098
+MD5sum: 5630e112cd9633a673a91adbd83d2152
+SHA1: 4abf40a8a68218e275b090408d3ee1e2bb66a332
+SHA256: ffdef78594c3a1f2a8c888cb610788ac53fc476fbb45cfb0c01a229299483984
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.coolcube
-Name: Color Spin Respring Animation
+Name: Cool Cube Respring Animation
 
 Package: com.vanishingtacos.deadsec
 Version: 1.0.2
