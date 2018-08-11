@@ -149,9 +149,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.spiderweb_1.0.0_iphoneos-arm.deb
 Size: 4694922
-MD5sum: c6031a32b703fbcdb892628da77c2fe4
-SHA1: 833916d7c7ab5777d0b3323a24aadf3536952ae5
-SHA256: cbe940781328993ea5741e1dcb9800b2c38fc7a8ce117fe2f88136c2a352674c
+MD5sum: 489775c3907a8ec69d13fbfba9de9259
+SHA1: 37131889c44a8982eb474acbbc6c4dab921ebac4
+SHA256: d25831bbe114e742843d3a9278c8d5b223653d79fcd9190d8e70928791e21973
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
