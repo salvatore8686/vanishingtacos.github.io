@@ -1,7 +1,7 @@
 <package>
 	<id>com.vanishingtacos.colorspin</id>
 	<name>Color Spin Respring Animation</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -16,6 +16,8 @@
         <description>An interesting respring animation</description>
 	</descriptionlist>
 	<screenshots>
+        <description>Color spin</description>
+            <image>screenshot.jpg</image>
 	</screenshots>
 	<changelog>
         <change>Initial release</change>

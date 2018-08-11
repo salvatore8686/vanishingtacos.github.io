@@ -16,6 +16,10 @@
         <description>An interesting respring animation</description>
 	</descriptionlist>
 	<screenshots>
+        <screenshot>
+            <description>Color Ball</description>
+            <image>screenshot.jpg</image>
+        </screenshot>
 	</screenshots>
 	<changelog>
         <change>Initial release</change>

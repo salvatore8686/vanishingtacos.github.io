@@ -1,6 +1,6 @@
 Package: com.vanishingtacos.colorspin
 Name: Color Spin Respring Animation
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Description: An interesting respring animation
