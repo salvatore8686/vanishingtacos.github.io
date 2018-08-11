@@ -1,0 +1,28 @@
+<package>
+	<id>ccom.antonio07341176.emojiandroid</id>
+	<name>Andoird EmjOis</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Override stock iOS emojis with Android ones.</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>Android EmOji</description>
+            <image>screenshot.jpg</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
