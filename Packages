@@ -116,11 +116,11 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.spincircle_1.0.1_iphoneos-arm.deb
-Size: 6981064
-MD5sum: bfaca4c5c4ac3921df74707fc558b008
-SHA1: ec34c3623cef895b4398e18c1f28967a78816774
-SHA256: b459afb9352f8ae282d841af263c4ff2bef422631fc21abbb031856935e194e7
-Section: Themes
+Size: 6981086
+MD5sum: fcf90ab4aadaef6031438fb5127e50b0
+SHA1: f0023da0a78667823ae4123f18c7b06907a99cbf
+SHA256: 08f12e43e9f9e9f5a9d8c262ce6d6075b7ccf03c71a73b1af7c516a165dc70d2
+Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.spincircle
