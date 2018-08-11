@@ -16,8 +16,10 @@
         <description>You know what it is :)</description>
 	</descriptionlist>
 	<screenshots>
+        <screenshot>
         <description>Glitchy Apple</description>
         <image>screenshot.jpg</image>
+        </screenshot>
 	</screenshots>
 	<changelog>
         <change>Remove unnecessary files</change>
