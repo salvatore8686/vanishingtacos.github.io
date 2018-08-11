@@ -16,6 +16,8 @@
 		<description>GameCube start up animation as a respring animation</description>
 	</descriptionlist>
 	<screenshots>
+        <description>GameCube</description>
+        <image>screenshot.jpg</image>
 	</screenshots>
 	<changelog>
         <change>Remove unnecessary files</change>
