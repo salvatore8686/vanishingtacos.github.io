@@ -1,0 +1,11 @@
+Package: com.vanishingtacos.spiderweb
+Name: Spider Web Respring Animation
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Description: An interesting respring animation
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes (respring animations)
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.spiderweb
+

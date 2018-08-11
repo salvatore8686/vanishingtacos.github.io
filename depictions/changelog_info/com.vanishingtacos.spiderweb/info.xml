@@ -1,0 +1,28 @@
+<package>
+	<id>com.vaninshingtacos.spiderweb</id>
+	<name>Spider Web Respring Animation</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>An interesting respring animation</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+                <description>Spider Web</desciption>
+                <image>screenshot.jpg</image>
+            </screenshot>
+	</screenshots>
+	<changelog>
+        <change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

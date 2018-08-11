@@ -142,6 +142,22 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.megapack
 Name: Respring Animation Mega Pack
 
+Package: com.vanishingtacos.spiderweb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.spiderweb_1.0.0_iphoneos-arm.deb
+Size: 4694914
+MD5sum: b365e74ad7b6ea06160d07d447904484
+SHA1: 1d728ca52c8c3573a6a1183c92b8df6483489e60
+SHA256: 8cc1869b2cb912a29747da5329ca1d4d0effa53edc86b8514cdcf615eb740f2c
+Section: Themes (respring animations)
+Description: An interesting respring animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.spiderweb
+Name: Spider Web Respring Animation
+
 Package: com.vanishingtacos.spincircle
 Version: 1.0.1
 Architecture: iphoneos-arm
