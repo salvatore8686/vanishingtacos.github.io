@@ -16,6 +16,38 @@
         <description>A mega pack of respring animations.</description>
 	</descriptionlist>
 	<screenshots>
+        <screenshot>
+            <description>Ball Color</description>
+            <image>ballcolor.jpg</image>
+            </screenshot>
+        <screenshot>
+            <description>Color Spin</description>
+            <image>colorspin.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Color Ball</description>
+            <image>colorball.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Cool Cube</description>
+            <image>coolcube.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Cube Cone</description>
+            <image>cubecone.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Cube New</description>
+            <image>cubenew.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>DeadSec Skull</description>
+            <image>deadsecskull.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Dream Catcher</description>
+            <image>dreamcatcher.jpg</image>
+        </screenshot>
 	</screenshots>
 	<changelog>
         <change>Remove unnecessary files</change>
