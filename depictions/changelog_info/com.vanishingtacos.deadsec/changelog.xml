@@ -1,14 +1,14 @@
 <changelog>
-	<changes>
-		<version>1.0.0</version>
-		<change>Initial release</change>
-	</changes>
-    <changes>
-        <version>1.0.1</version>
-        <change>Remove unnecessary files</change>
-    </changes>
     <changes>
         <version>1.0.2</version>
         <change>Remove unnecessary files</change>
     </changes>
+    <changes>
+        <version>1.0.1</version>
+        <change>Remove unnecessary files</change>
+    </changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changes>
 </changelog>
