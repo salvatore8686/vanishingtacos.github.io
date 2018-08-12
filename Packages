@@ -5,9 +5,9 @@ Maintainer: antonio07341176, @vXBaKeRXv
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.antonio07341176.emojiandroid_1.0.0_iphoneos-arm.deb
 Size: 34888400
-MD5sum: 7cb450033485347034f7a29c66963d73
-SHA1: d932e84a1805715cbff61540f9fa064851b8d743
-SHA256: e722a4aca6d2d07e987f5e6c3d5dd10c5b51ee1924ecc36ad24f088ce2060661
+MD5sum: 284e63cffce51e9d4fb91b8acfc00063
+SHA1: f66489e85edd9040c4e7b2ea1f9bc167c50e6339
+SHA256: a06647c4d6bd956131795e8ead9ba1b507e088d466f63db254801c834f216a1f
 Section: Themes (emojis)
 Description: Override stock iOS emojis with Android ones.
 Author: antonio07341176, @vXBaKeRXv
@@ -21,9 +21,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.ballcolor_1.0.0_iphoneos-arm.deb
 Size: 365182
-MD5sum: 20364ee98af174f5756ff499605c41c1
-SHA1: 61a56cb58d4f065826f8c24d13b805e0f196a37c
-SHA256: c1861b1be3f971d016150359e0b3677951d5e818c7c3fa6d3d1fd88971500103
+MD5sum: 836d2357497cbcf927adff25a539500b
+SHA1: 55fc771096d039768ad55b5406d6b638f99b4460
+SHA256: 17cde9e4bc86f923157c2e3a996c8481b17befa665c8e30ce3a7f72c55c0bb11
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
@@ -37,9 +37,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.colorball_1.0.0_iphoneos-arm.deb
 Size: 397140
-MD5sum: 7b06a0aeff6304793574fb19dc3b9522
-SHA1: eec3982f9572bbe0bf2b13431e611e72f7cc9993
-SHA256: d26d52c7141e5bd3ae3bb5c74f9df1579fcd83ec01fc9ea98725e4e5319baec0
+MD5sum: c6c5e8bfb470a06db6f94790a2ca698d
+SHA1: 6419d99a134565f70af65035b9d8a7d3f8ed3665
+SHA256: 87b816b1a377d9915ebcab4bb58b3b13201a4d3a3cb98545378c097bb2cdf1ad
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
@@ -53,9 +53,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.colorspin_1.0.1_iphoneos-arm.deb
 Size: 199614
-MD5sum: b4505d0248b0cf93277cabd3472b6709
-SHA1: 84fa668dffb61f53f442ffa36b865d534a22bd6f
-SHA256: 48a6d5274e78a3efc6cf4f7a8ab9908f68b36e45d76d5d650bac4ba3cd7b1657
+MD5sum: 19d917e3c5fe80a683353bec82df2bca
+SHA1: 92d36277c5b9fb19faea21ac660c88bfb535c385
+SHA256: ebb91c4edffe75ca4f64d1d9f6605ba409a2476a8e9b27d40edafe9b5cecf5f8
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
@@ -69,9 +69,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.coolcube_1.0.0_iphoneos-arm.deb
 Size: 348104
-MD5sum: ff167e31b23a2715007b05527768c4a1
-SHA1: 8393a3d2182d9f8699addee9157d39fb778627a7
-SHA256: 56272028c3f5b97c776229f2cba2e97071a21f9cc3b0cac84a1f9e3bc654beea
+MD5sum: 5cc23ff030b63bf762e510938555cfe0
+SHA1: 5e1be3926549ec6e05343948deed945825f02d50
+SHA256: 2da56ebccc04c82203143003dba9aba35b8cc8ac1e228bcb17dbc73502b72be6
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
@@ -85,9 +85,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.deadsec_1.0.2_iphoneos-arm.deb
 Size: 1361442
-MD5sum: 75873e56d2f18a039cdf98c858f4852c
-SHA1: 5e7bf9e5ea642b8a0b456ccec420e402263775c0
-SHA256: 0c04d35d464033e905532123015357bf1ea8cb300d97d9811345094e8c906cf7
+MD5sum: 7127a1b580702c357b61c2a2c310b43c
+SHA1: 258d461d2a36f9b4b1ad8439cb9359598802c9b8
+SHA256: 034222808eb3bedf5e8de74d56da6003adfa7e899943ca362e5ec9e7f328423b
 Section: Themes (respring animations)
 Description: DeadSec skull respring animation :)
 Author: VanishingTacos
@@ -101,9 +101,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.gamecube_1.0.1_iphoneos-arm.deb
 Size: 1860802
-MD5sum: cc250e44f0f347d84acbe395096a293d
-SHA1: 525cc578a5a45211fb3e004399c9fa1a69f66723
-SHA256: 13a0530d52f03c2756c60ef33ad1f7d43c1b0d98e52ef0101c86a9790d6fce1b
+MD5sum: 23a8fd491c8a88b00fc8decdf60329d2
+SHA1: 65920bf4d65629af4aa320b7b8a9e4cd17c48403
+SHA256: 07ac7197900e99e06ce21243680b44a9e1467d071b8ffb23897cc2bcb19db76f
 Section: Themes (respring animations)
 Description: GameCube start up animation as a respring animation :)
 Author: VanishingTacos
@@ -117,9 +117,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.glitchyapple_1.0.1_iphoneos-arm.deb
 Size: 8247062
-MD5sum: 035496b139c8b008e8b915279210af13
-SHA1: 475658ade5f2be39036758b46805a8a5f64a517a
-SHA256: 89ff9370cc62ff1960fc55369b85658ff813947fe0c711cfdf87628266f36da9
+MD5sum: ea10446b1d80a763287078f316942d66
+SHA1: 4daad0e34efa1d305f174f761f5076b551ac4741
+SHA256: ad2ade91068a2165b2d374dc544fc08285e3153c8af198a7af7ae9f1a484de80
 Section: Themes (respring animations)
 Description: You know what is. :)
 Author: VanishingTacos
@@ -133,9 +133,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.megapack_1.0.2_iphoneos-arm.deb
 Size: 24686042
-MD5sum: ff9bf230de5c27c4bfb7c03a3e5c50c3
-SHA1: 39cd3ed970d44933d1c2ef7dbd757908d03394d3
-SHA256: 124a928cafde953c2765bf02ce9018b4112ac2de0042d640012ee3ae37a45cc4
+MD5sum: ef9c55bd7351875474069bb716aa7c1e
+SHA1: f35aaf8294280f6ad8865e30dd5468dd55513989
+SHA256: 1d94ceeb9a2860bad520742d01e2fe7ce504b6da8ab45def42bdef3fe70ed2df
 Section: Themes (respring animations)
 Description: A mega pack of respring animations.
 Author: VanishingTacos
@@ -148,10 +148,10 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.spiderweb_1.0.0_iphoneos-arm.deb
-Size: 4694926
-MD5sum: adf7e716ac85a70387c35eaf6250ab62
-SHA1: 390bd08a1a50f898275958ecc171ce3f31779b58
-SHA256: 2973d3a1d4d3754ff29c95b31057c5c4edf3427941e8e85dccd4a8c62b54860b
+Size: 4694930
+MD5sum: 10bff780c63bbd30f342820c473057a0
+SHA1: cf74b3feafc1f7294d152f8fd286f09ebc4eb34b
+SHA256: 42fae65361cacbaf19031089f99f96e9bdbe5f4c599c7265a1bebfca8fc4f06b
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
@@ -165,9 +165,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.spincircle_1.0.1_iphoneos-arm.deb
 Size: 6981070
-MD5sum: bfc6ac2ed92a0d5564736186dc2f22b3
-SHA1: 85656e0aaf207c4183136201ad2c9c49ceed85bc
-SHA256: 7b4e38302ed811cf21b9a2beb20b73ac8e42d7ac90e1e8316bb040476d13c062
+MD5sum: 308c966c7308511727a563aee82dad17
+SHA1: 0e3735d740a2134c4afa64e40aa97bd25f179e2d
+SHA256: 973584716330e631b96ea3bf26f114b8bb39c3bc526a7a9f55bc571d3cd7885e
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
