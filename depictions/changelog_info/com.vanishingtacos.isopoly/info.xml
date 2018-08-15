@@ -1,7 +1,7 @@
 s<package>
 	<id>com.vaninshingtacos.isopoly</id>
 	<name>ISO Poly Respring Animation</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -22,7 +22,7 @@ s<package>
             </screenshot>
 	</screenshots>
 	<changelog>
-        <change>Initial release</change>
+        <change>Opps...</change>
 	</changelog>
 	<links></links>
 </package>
