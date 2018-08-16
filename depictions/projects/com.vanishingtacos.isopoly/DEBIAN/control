@@ -1,6 +1,6 @@
 Package: com.vanishingtacos.isopoly
 Name: ISO Poly Respring Animation
-Version: 1.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Description: An interesting respring animation

@@ -127,15 +127,15 @@ Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.gli
 Name: Glitchy Apple Respring Animation
 
 Package: com.vanishingtacos.isopoly
-Version: 1.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
-Filename: ./debs/com.vanishingtacos.isopoly_1.0.1_iphoneos-arm.deb
-Size: 3346476
-MD5sum: 2c7251a6baaef1d1ec63361c5d983aee
-SHA1: 61b9a15e148ba46fe0395f519a0b67b9b3a2f594
-SHA256: 83560ac80f2b75244cd9ea912e8875d83d4b97425639a27e8b2323f45c621218
+Filename: ./debs/com.vanishingtacos.isopoly_1.0.0_iphoneos-arm.deb
+Size: 3346466
+MD5sum: 2a7198dae716d8067131d20b67caf21d
+SHA1: 24dfbb244599bd2866d1e5bad7ee244b19ed4009
+SHA256: 6f792bd46c2e16e619dcebc01a3718cd9af5cd075700b287eef0e3d171794734
 Section: Themes (respring animations)
 Description: An interesting respring animation
 Author: VanishingTacos
