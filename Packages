@@ -78,6 +78,22 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.coolcube
 Name: Cool Cube Respring Animation
 
+Package: com.vanishingtacos.cubecone
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.cubecone_1.0.0_iphoneos-arm.deb
+Size: 768582
+MD5sum: 6adbaa6b8657dd66314bb5d2abc08c5f
+SHA1: 106804826ccd5c43d39a347786a0450387d328eb
+SHA256: 76606cf8590ce4531eb3970849a72bbf36effe9c2e976a498dc555c25288df17
+Section: Themes (respring animations)
+Description: An interesting respring animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.cubecone
+Name: Cube Cone Respring Animation
+
 Package: com.vanishingtacos.deadsec
 Version: 1.0.2
 Architecture: iphoneos-arm
