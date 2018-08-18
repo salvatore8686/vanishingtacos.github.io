@@ -14,6 +14,22 @@ Author: antonio07341176, @vXBaKeRXv
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.antonio07341176.emojiandroid
 Name: Android EmOjis
 
+Package: com.vanishingtacos.anemonefontfix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.anemonefontfix_1.0.0_iphoneos-arm.deb
+Size: 6842
+MD5sum: 143a775381a5a4de03d23afb1b768d64
+SHA1: 0b4db818832d9dc96535190c2220b5345af0a190
+SHA256: f231319716cd5cbc18ec780f979686b0466bb8f978636024c2cb5321916fbeb6
+Section: Themes (fonts)
+Description: Allows the use of custom fonts with Anemone
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.anemonefontfix
+Name: Anemone Font Fix
+
 Package: com.vanishingtacos.ballcolor
 Version: 1.0.0
 Architecture: iphoneos-arm
