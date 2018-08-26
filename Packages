@@ -2,15 +2,15 @@ Package: com.antonio07341176.emojiandroid
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: antonio07341176, @vXBaKeRXv
-Depends: firmware (>=7.0), com.anemonetheming.anemone
+Depends: firmware (>=7.0), com.anemonetheming.anemone, com.vanishingtacos.anemonefontfix
 Filename: ./debs/com.antonio07341176.emojiandroid_1.0.0_iphoneos-arm.deb
-Size: 34888400
-MD5sum: 284e63cffce51e9d4fb91b8acfc00063
-SHA1: f66489e85edd9040c4e7b2ea1f9bc167c50e6339
-SHA256: a06647c4d6bd956131795e8ead9ba1b507e088d466f63db254801c834f216a1f
+Size: 34888408
+MD5sum: 38eb950aa7a1f9e52bd661627680e1df
+SHA1: 777ea609f41f6bf744ad026c086c87f633eabb28
+SHA256: 6fbe4b4448928a1faf42ac23e14b185db5553b6f84339e5796125bbdfe44347b
 Section: Themes (emojis)
 Description: Override stock iOS emojis with Android ones.
-Author: antonio07341176, @vXBaKeRXv
+Author: antonio07341176, vXBaKeRXv
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.antonio07341176.emojiandroid
 Name: Android EmOjis
 
@@ -21,9 +21,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.anemonefontfix_1.0.0_iphoneos-arm.deb
 Size: 6842
-MD5sum: 143a775381a5a4de03d23afb1b768d64
-SHA1: 0b4db818832d9dc96535190c2220b5345af0a190
-SHA256: f231319716cd5cbc18ec780f979686b0466bb8f978636024c2cb5321916fbeb6
+MD5sum: 5952de68c2f2000eef4085ad59641de0
+SHA1: f492580c068a4d05ad07a312558acd36d666f3af
+SHA256: d9b9b87ef9dc5be3687b5de473d02e1932e81edb9d87baeb887a08381e93fd3b
 Section: Themes (fonts)
 Description: Allows the use of custom fonts with Anemone
 Author: VanishingTacos
