@@ -158,6 +158,22 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.glitchyapple
 Name: Glitchy Apple Respring Animation
 
+Package: com.vanishingtacos.goku
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.goku_1.0.0_iphoneos-arm.deb
+Size: 49822070
+MD5sum: 9d9fa7a9119bac93d14b34f6c7f6f945
+SHA1: 0b2ee6bf1e888a64301f475a282346d2ccec88f7
+SHA256: 0f35569a654ab541f0d4529a90fcbdd8059172090594fbb60f79d8eff3e151bd
+Section: Themes (respring animations)
+Description: Goku Holding Spirt Bomb Respring Animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.goku
+Name: Goku Respring Animation
+
 Package: com.vanishingtacos.isopoly
 Version: 1.0.0
 Architecture: iphoneos-arm
