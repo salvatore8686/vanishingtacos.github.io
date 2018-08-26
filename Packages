@@ -164,10 +164,10 @@ Architecture: iphoneos-arm
 Maintainer: VanishingTacos
 Depends: firmware (>=7.0), com.anemonetheming.anemone
 Filename: ./debs/com.vanishingtacos.goku_1.0.0_iphoneos-arm.deb
-Size: 49822070
-MD5sum: 9d9fa7a9119bac93d14b34f6c7f6f945
-SHA1: 0b2ee6bf1e888a64301f475a282346d2ccec88f7
-SHA256: 0f35569a654ab541f0d4529a90fcbdd8059172090594fbb60f79d8eff3e151bd
+Size: 49822098
+MD5sum: 23f8ef30ea4615e64f51c140d98e1494
+SHA1: aeedbe44be5f580c00d1b3510c5b1a68fb806475
+SHA256: bce58334cdf0d15617eb493a7d10a2d98a3532312fff20caf139c76c2468c02b
 Section: Themes (respring animations)
 Description: Goku Holding Spirt Bomb Respring Animation
 Author: VanishingTacos

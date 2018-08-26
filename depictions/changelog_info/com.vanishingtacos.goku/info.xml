@@ -13,16 +13,16 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-        <description>Goku Holding Spirt Bomb Respring Animation</description>
+		<description>Goku Holding Spirt Bomb Respring Animation</description>
 	</descriptionlist>
 	<screenshots>
         <screenshot>
-                <description>Goku</desciption>
-                <image>screenshot.jpg</image>
-            </screenshot>
+            <description>Goku</description>
+            <image>screenshot.jpg</image>
+        </screenshot>
 	</screenshots>
 	<changelog>
-        <change>Initial release</change>
+		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>
