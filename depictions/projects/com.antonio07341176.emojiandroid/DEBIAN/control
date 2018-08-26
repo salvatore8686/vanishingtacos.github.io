@@ -4,7 +4,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: firmware (>=7.0), com.anemonetheming.anemone, com.vanishingtacos.anemonefontfix
 Description: Override stock iOS emojis with Android ones.
-Maintainer: antonio07341176, @vXBaKeRXv
+Maintainer: antonio07341176, vXBaKeRXv
 Author: antonio07341176, vXBaKeRXv
 Section: Themes (emojis)
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.antonio07341176.emojiandroid

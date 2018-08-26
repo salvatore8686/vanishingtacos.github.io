@@ -1,13 +1,13 @@
 Package: com.antonio07341176.emojiandroid
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: antonio07341176, @vXBaKeRXv
+Maintainer: antonio07341176, vXBaKeRXv
 Depends: firmware (>=7.0), com.anemonetheming.anemone, com.vanishingtacos.anemonefontfix
 Filename: ./debs/com.antonio07341176.emojiandroid_1.0.0_iphoneos-arm.deb
 Size: 34888408
-MD5sum: 38eb950aa7a1f9e52bd661627680e1df
-SHA1: 777ea609f41f6bf744ad026c086c87f633eabb28
-SHA256: 6fbe4b4448928a1faf42ac23e14b185db5553b6f84339e5796125bbdfe44347b
+MD5sum: 9bdacb1e2d80fd9428a51ccb7e671f7f
+SHA1: 6efc71046536184e982b8c91d7ef3cdd2c61fb5a
+SHA256: 35fd4165524b0b257cceca2534a2f852daada90da5453658673fade787ab88ed
 Section: Themes (emojis)
 Description: Override stock iOS emojis with Android ones.
 Author: antonio07341176, vXBaKeRXv
