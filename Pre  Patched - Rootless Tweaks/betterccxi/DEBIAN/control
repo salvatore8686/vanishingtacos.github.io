@@ -1,0 +1,11 @@
+Package: com.repo.xarold.com.betterccxi
+Name: BetterCCXI
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: Enhance your control center on iOS 11
+Depiction: http://repo.xarold.com/depiction.php?id=betterccxi
+Author: ATWiiks
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Maintainer: Xarold <contact@xarold.com>
+
