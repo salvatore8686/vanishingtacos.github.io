@@ -1,0 +1,11 @@
+Package: com.vanishingtacos.anemonefontfix
+Name: Anemone Font Fix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Description: Allows the use of custom fonts with Anemone
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes (fonts)
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.anemonefontfix
+

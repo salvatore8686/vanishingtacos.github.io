@@ -1,0 +1,11 @@
+Package: com.vanishingtacos.goku
+Name: Goku Respring Animation
+Version: 1.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Description: Goku Holding Spirt Bomb Respring Animation
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes (respring animations)
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.goku
+
