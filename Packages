@@ -1,18 +1,34 @@
 Package: com.antonio07341176.emojiandroid
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: antonio07341176, @vXBaKeRXv
-Depends: firmware (>=7.0), com.anemonetheming.anemone
+Maintainer: antonio07341176, vXBaKeRXv
+Depends: firmware (>=7.0), com.anemonetheming.anemone, com.vanishingtacos.anemonefontfix
 Filename: ./debs/com.antonio07341176.emojiandroid_1.0.0_iphoneos-arm.deb
-Size: 34888400
-MD5sum: 284e63cffce51e9d4fb91b8acfc00063
-SHA1: f66489e85edd9040c4e7b2ea1f9bc167c50e6339
-SHA256: a06647c4d6bd956131795e8ead9ba1b507e088d466f63db254801c834f216a1f
+Size: 34888408
+MD5sum: 9bdacb1e2d80fd9428a51ccb7e671f7f
+SHA1: 6efc71046536184e982b8c91d7ef3cdd2c61fb5a
+SHA256: 35fd4165524b0b257cceca2534a2f852daada90da5453658673fade787ab88ed
 Section: Themes (emojis)
 Description: Override stock iOS emojis with Android ones.
-Author: antonio07341176, @vXBaKeRXv
+Author: antonio07341176, vXBaKeRXv
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.antonio07341176.emojiandroid
 Name: Android EmOjis
+
+Package: com.vanishingtacos.anemonefontfix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.anemonefontfix_1.0.0_iphoneos-arm.deb
+Size: 6842
+MD5sum: 5952de68c2f2000eef4085ad59641de0
+SHA1: f492580c068a4d05ad07a312558acd36d666f3af
+SHA256: d9b9b87ef9dc5be3687b5de473d02e1932e81edb9d87baeb887a08381e93fd3b
+Section: Themes (fonts)
+Description: Allows the use of custom fonts with Anemone
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.anemonefontfix
+Name: Anemone Font Fix
 
 Package: com.vanishingtacos.ballcolor
 Version: 1.0.0
@@ -78,6 +94,22 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.coolcube
 Name: Cool Cube Respring Animation
 
+Package: com.vanishingtacos.cubecone
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.cubecone_1.0.0_iphoneos-arm.deb
+Size: 768582
+MD5sum: 6adbaa6b8657dd66314bb5d2abc08c5f
+SHA1: 106804826ccd5c43d39a347786a0450387d328eb
+SHA256: 76606cf8590ce4531eb3970849a72bbf36effe9c2e976a498dc555c25288df17
+Section: Themes (respring animations)
+Description: An interesting respring animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.cubecone
+Name: Cube Cone Respring Animation
+
 Package: com.vanishingtacos.deadsec
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -125,6 +157,22 @@ Description: You know what is. :)
 Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.glitchyapple
 Name: Glitchy Apple Respring Animation
+
+Package: com.vanishingtacos.goku
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: VanishingTacos
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Filename: ./debs/com.vanishingtacos.goku_1.0.1_iphoneos-arm.deb
+Size: 49822090
+MD5sum: 5385430366768f131dbb84175d5708d1
+SHA1: 35e35f0b28b6b0b4d46673a7a75bdf6133df64e5
+SHA256: 018d4cf2317632e54ed3cc8095b8969368b8a88e27abd143c6774f1354fbb81d
+Section: Themes (respring animations)
+Description: Goku Holding Spirt Bomb Respring Animation
+Author: VanishingTacos
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.goku
+Name: Goku Respring Animation
 
 Package: com.vanishingtacos.isopoly
 Version: 1.0.0
